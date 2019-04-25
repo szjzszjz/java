@@ -1,0 +1,17 @@
+package com.szjz.builderPattern.item.burger;
+
+public class ChickenBurger extends Burger{
+
+	@Override
+	public String name() {
+		// TODO Auto-generated method stub
+		return "ChickenBurger";
+	}
+
+	@Override
+	public float price() {
+		// TODO Auto-generated method stub
+		return 25f;
+	}
+
+}
