@@ -1,7 +1,6 @@
 package com.szjz.IteratorPattern;
 
 import com.szjz.IteratorPattern.Impl.NameRepository;
-import com.szjz.IteratorPattern.Impl.TestIter;
 import com.szjz.IteratorPattern.interfaces.Iterator;
 
 /**
